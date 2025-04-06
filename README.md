@@ -10,3 +10,4 @@
 kokushibo15908/kokushibo15908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+can i get script for blox fruits 
